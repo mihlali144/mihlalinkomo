@@ -1,0 +1,215 @@
+#body{
+  color:black;
+    background-image: url("am the boss.jpg");
+    background-size: cover;
+    height: 350%;
+    width:100%;
+    margin:0;
+    height: 2000px;
+    background-color: #f1ff1f1;
+    align-items:center;
+    font-family: 'Diplomata SC';font-size: 22px;
+    
+
+
+}
+
+
+.glow {
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30p PINK, 0 0 40px PINK, 0 0 50px pink, 0 0 60px pnk, 0 0 70px pink;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px pink, 0 0 40px pink, 0 0 50px pink, 0 0 60px pink, 0 0 70px pink, 0 0 80px pink;
+  }
+
+}
+
+
+#background-img{
+
+  background-image: url("am the boos.jpg");
+    background-size: cover;
+    background-size: no-repeat;
+    height:350%;
+    width:100%;
+    margin:0%;
+    background-position: center;
+    
+
+}
+
+
+
+#topnav a{
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        align-items: center;
+        font-family: 'Diplomata SC';font-size: 22px;
+      }
+
+
+#topnav a:hover {
+  background-color: white;
+    left: 0;
+    font-family: 'Diplomata SC';font-size: 22px;
+}
+
+
+#topnav a.active {
+    background-color: pink;
+    color: plum;
+    font-family: 'Diplomata SC';font-size: 22px;
+  }
+
+#home{
+
+    background-color: pink;
+    font-family: 'Diplomata SC';font-size: 22px;
+  }
+
+#about{
+background-color: palevioletred;
+background-image: url("am the boss");
+font-family: 'Diplomata SC';font-size: 22px;
+
+}
+
+#contact{
+
+background-color: plum;
+font-family: 'Diplomata SC';font-size: 22px;
+
+}
+{
+    box-sizing: border-box;
+  }
+  
+  .bg-image {
+    
+    background-image: url("am\ the\ boss.jpg.jpg");
+    
+    
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+    
+   
+    height: 100%; 
+    
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  .bg-text {
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.4); 
+    color:darksalmon;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 90%;
+    padding: 20px;
+    text-align: center;
+    text-size-adjust: 100px;
+    text-shadow: purple;
+    text-decoration-color: plum;
+    font-family: 'Nosifer';font-size: 22px;
+  }
+}
+  }
+
+.aboutbody{
+  background-image: url("am the boss.jpg");
+color:pink;
+background-color: plum;
+text-size-adjust: 70px;
+height:100%;
+width:100%;
+margin:0%;
+font-family: 'Nosifer';font-size: 22px;
+}
+
+#about-img{
+
+float:right;
+
+
+}
+
+{box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  font-size: 20px;
+  font-family: 'Nosifer';font-size: 22px;
+}
+
+input[type=submit] {
+  color: white;
+  background-color:none;
+  color: plum;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Nosifer';font-size: 22px;
+}
+
+
+input[type=submit]:hover {
+  background-color: none;
+  font-family: 'Nosifer';font-size: 22px;
+}
+
+
+.contact {
+  border-radius: 5px;
+  background-color: pink;
+  padding: 20px;
+  font-family: 'Nosifer';font-size: 22px;
+}
+}
+
+.footer{
+
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: none;
+   color: white;
+   text-align: center;
+   font-family: 'Nosifer';font-size: 22px;
+   align-items: center;
+   text-align: center;
+  }
+}
+
